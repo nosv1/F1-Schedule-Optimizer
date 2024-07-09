@@ -1,0 +1,30 @@
+F1 teams travel by truck when in the EU, and by sea or plane otherwise
+
+The people typically fly back to the UK after a race, but the heavy equipment flies to the next place
+
+there are 5 sets of 'non-critical' equipment that leapfrog to the flyaway races by sea
+
+24 races starting from Mar 2, 2024
+Summer break from Jul 28 to Aug 25
+last race Dec 8, 2024
+
+sea freight tends to be 12 to 16 times cheaper than air freight.
+
+10 units for shipping
+1 unit for personnel (air)
+4 units for critical equipment (air/truck)
+4 units for non-critical equipment (sea/truck)
+
+Cost breakdown for air freight:
+- 1 unit for personnel: £100,000
+- 1 unit for critical equipment: £50,000
+- 1 unit for non-critical equipment: £25,000
+
+Cost breakdown for sea freight:
+- 1 unit for non-critical equipment: £1,500
+
+The cost of trucking is £1 per mile
+
+The cost of flying is £10 per mile
+
+The cost of sailing is £0.1 per mile
