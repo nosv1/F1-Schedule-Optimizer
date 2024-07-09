@@ -1,0 +1,5 @@
+folium==0.17.0
+matplotlib==3.6.3
+numpy==2.0.0
+pandas==1.5.3
+searoute==1.4.1
